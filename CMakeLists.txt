@@ -10,6 +10,7 @@ add_executable(listing_2.2 listing_2.2.cpp)
 add_executable(listing_2.3 listing_2.3.cpp)
 add_executable(listing_2.4  listing_2.4.cpp)
 add_executable(listing_2.5 listing_2.5.cpp)
+add_executable(2_1 2_1.cpp)
 
 
 #[[file(GLOB APP_SOURCES RELATIVE${CMAKE_CURRENT_SOURCE_DIR}/*.cpp)
